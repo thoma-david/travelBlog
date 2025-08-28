@@ -14,7 +14,7 @@ const Header = () => {
             <div className="w-10 h-10 bg-gray-900 flex items-center justify-center">
               <PenTool className="h-6 w-6 text-white" />
             </div>
-            <span className="text-2xl font-light text-gray-900 tracking-wide">JOURNAL</span>
+            <span className="text-2xl font-light text-gray-900 tracking-wide">Trave</span>
           </Link>
 
           {/* Desktop Navigation */}

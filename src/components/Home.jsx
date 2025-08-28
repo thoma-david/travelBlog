@@ -91,14 +91,14 @@ const Home = () => {
         <section className="relative h-screen bg-gray-100 flex items-center justify-center">
           <div className="max-w-4xl mx-auto px-4 text-center">
             <h1 className="text-5xl md:text-7xl font-light mb-8 tracking-tight text-gray-900">
-              JOURNAL
+              Travel Blog
             </h1>
             <div className="max-w-2xl mx-auto">
               <h2 className="text-2xl md:text-3xl font-light mb-6 text-gray-600">
-                Welcome to your new blog
+                Welcome to your Travel blog
               </h2>
               <p className="text-lg text-gray-500 mb-8">
-                Start sharing your thoughts and stories with the world
+                Start sharing your thoughts and stories about the world, with the world
               </p>
               <Link 
                 to="/create"
